@@ -1,16 +1,18 @@
-# jokenpo
+# JanKenPon App
 
-Projeto 2 - Aplicativo Jokenpo
+The following project was made in a Flutter course i made, and the main goals of this app were:
 
-## Getting Started
+* Learn how to make images clickable;
+* Pratice programming logic;
+    * If-else; 
+    * Logic operators (&& and ||);
 
-This project is a starting point for a Flutter application.
+Also, one of the app's goals was to pratice layout creation and customization.
+## How the App Works
 
-A few resources to get you started if this is your first Flutter project:
+When you inicialize the app, you will see three buttons (rock, paper, scissor), when you click in one of them, a random number will be generated and the result will be the computer's choice.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After that, your choice and the computer's choice will be compared, based on the result, a text will bem shown in your screen declaring if you win, you lose or if it was a tie. 
+## Author
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Salum28](https://github.com/Salum28)
